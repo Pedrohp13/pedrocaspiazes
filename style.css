@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b9b6b6; /* Escolha sua cor */
+    text-align: center;
+    
+    }
+    header {
+    background-color: #547c6f; /* Escolha sua cor */
+    color: white;
+    padding: 20px;
+    }
+    button {
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    }
+   
+        
+    
